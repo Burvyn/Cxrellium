@@ -55,7 +55,7 @@ Corellium/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/Burvyn/Corellium.git
+   git clone https://github.com/Burvyn/Cxrellium.git
    ```
 2. **Navigate to the directory**
    ```sh
